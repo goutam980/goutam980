@@ -20,7 +20,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutam980" alt="goutam980" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/goutamt95261742" target="blank"><img src="https://img.shields.io/twitter/follow/goutamt95261742?logo=twitter&style=for-the-badge" alt="goutamt95261742" /></a> </p>
-- 📄 Know about my experiences [https://drive.google.com/file/d/17wunzcJHG7LKZS9SAg6bD8WuRkExPB3z/view?usp=sharing](https://drive.google.com/file/d/17wunzcJHG7LKZS9SAg6bD8WuRkExPB3z/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
